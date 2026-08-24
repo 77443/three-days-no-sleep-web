@@ -1,4 +1,4 @@
- 替换成你自己的认证 Worker 地址
+ 
 const AUTH_WORKER_URL = 'https://threedaysnosleepbackend.2072791042.workers.dev';
 
 function jsonHeaders() {
